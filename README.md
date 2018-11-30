@@ -18,3 +18,7 @@ Azure Functions の上で動く想定です。
 ### service_account.json
 
 Firebase のサービスアカウントの認証情報が入っているやつ
+
+# CI について
+
+お気持ちのこもった暖かいデプロイを手作業でしましょう（まだできてない
