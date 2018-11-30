@@ -1,0 +1,20 @@
+{
+  "name": "meetups-firebase-functions",
+  "version": "1.0.0",
+  "description": "For Firebase Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumiya-kume/meetups-firebase-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fumiya-kume/meetups-firebase-functions/issues"
+  },
+  "homepage": "https://github.com/fumiya-kume/meetups-firebase-functions#readme"
+}
