@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/fumiya-kume/meetups-firebase-functions#readme",
   "dependencies": {
-    "firebase-admin": "^6.3.0"
+    "firebase-admin": "^6.3.0",
+    "node-fetch": "^2.3.0"
   }
 }
